@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color:antiquewhite;
+  }
+  
+  .stopwatch {
+    height: 29%;
+    width: 15%;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 50%;
+    color: wheat;
+box-shadow: 0px -2px 5px 30px black;
+    text-align: center;
+    background-color: black;
+  }
+  
+  #display {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2em;
+    margin: 8px;
+    padding: 5px 10px;
+    cursor: pointer;
+    color: black;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    
+  }
+  
